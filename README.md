@@ -4,9 +4,9 @@
 ## API Reference
 
 ### How to run project 
-## 1. install libraries
-## 2. start backend server : node index.js - PORT 8080
-## 3. start react app : npm start - PORT 3000
+#### 1. install libraries
+#### 2. start backend server : node index.js - PORT 8080
+#### 3. start react app : npm start - PORT 3000
 
 
 ## Demo
