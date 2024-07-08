@@ -1,6 +1,19 @@
 
 # Transaction app
 
+## API Reference
+
+### How to run project 
+## 1. install libraries
+## 2. start backend server : node index.js - PORT 8080
+## 3. start react app : npm start - PORT 3000
+
+
+## Demo
+
+Insert gif or link to demo
+![](https://github.com/SauravSatpute/TransactionApp/blob/main/project.gif)
+
 
 
 ## API Reference
@@ -100,7 +113,4 @@ See `contributing.md` for ways to get started.
 Please adhere to this project's `code of conduct`.
 
 
-## Demo
 
-Insert gif or link to demo
-![](https://github.com/SauravSatpute/TransactionApp/blob/main/project.gif)
