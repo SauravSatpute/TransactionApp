@@ -60,38 +60,6 @@ const App = () => {
   };
 
   return (
-    // <div className="App">
-    //   <div className="min-h-screen bg-gray-100 p-4">
-    //     <div className="max-w-4xl mx-auto bg-white p-6 rounded-lg shadow-md">
-    //       <h1 className=" font-bold mb-4">Transaction List</h1>
-    //       <MonthSelector month={month} handleMonthChange={handleMonthChange} />
-    //       <SearchBar searchText={searchText} handleSearch={handleSearch} />
-    //       <TransactionsTable transactions={transactions} />
-    //       <Pagination page={page} totalPages={totalPages} handleNextPage={handleNextPage} handlePrevPage={handlePrevPage} />
-    //     </div>
-    //   </div>
-    // </div>
-    // <div className="min-h-screen bg-gray-100 p-4 bg-slate-500">
-    //   <div className="max-w-4xl mx-auto bg-white p-6 rounded-lg shadow-md bg-gray-200">
-    //     <h1 className="text-2xl font-bold mb-4">Transaction List</h1>
-    //     <MonthSelector month={month} handleMonthChange={handleMonthChange} />
-    //     <Statistics month={month} />
-    //     <SearchBar searchText={searchText} handleSearch={handleSearch} />
-    //     <TransactionsTable transactions={transactions} />
-    //     <Pagination page={page} totalPages={totalPages} handleNextPage={handleNextPage} handlePrevPage={handlePrevPage} />
-    //   </div>
-    // </div>
-    // <div className="min-h-screen bg-gray-100 p-4">
-    //   <div className="max-w-4xl mx-auto bg-white p-6 rounded-lg shadow-md">
-    //     <h1 className="text-2xl font-bold mb-4">Transaction List</h1>
-    //     <MonthSelector month={month} handleMonthChange={handleMonthChange} />
-    //     <Statistics month={month} />
-    //     <BarChart month={month} />
-    //     <SearchBar searchText={searchText} handleSearch={handleSearch} />
-    //     <TransactionsTable transactions={transactions} />
-    //     <Pagination page={page} totalPages={totalPages} handleNextPage={handleNextPage} handlePrevPage={handlePrevPage} />
-    //   </div>
-    // </div>
     <div className="min-h-screen bg-gray-100 p-4">
       <div className="max-w-4xl mx-auto bg-white p-6 rounded-lg shadow-md">
         <h1 className="text-2xl font-bold mb-4">Transaction List</h1>

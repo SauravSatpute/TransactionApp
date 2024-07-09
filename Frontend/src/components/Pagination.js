@@ -23,11 +23,7 @@ const Pagination = ({ page, totalPages, handleNextPage, handlePrevPage }) => {
           </button>
         </div>
       );
-//   <div>
-//     <button onClick={handlePrevPage} disabled={page <= 1}>Previous</button>
-//     <span>Page {page} of {totalPages}</span>
-//     <button onClick={handleNextPage} disabled={page >= totalPages}>Next</button>
-//   </div>
+
 };
 
 export default Pagination;
